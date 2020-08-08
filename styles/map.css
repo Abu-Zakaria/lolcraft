@@ -1,0 +1,11 @@
+.map-grid
+{
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+}
+
+.map-grid-row-wrapper
+{
+	margin: -5px 0px;
+}

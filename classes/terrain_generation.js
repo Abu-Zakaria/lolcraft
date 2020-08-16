@@ -1,0 +1,7 @@
+class TerrainGeneration
+{
+	constructor()
+	{
+		
+	}
+}
